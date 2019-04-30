@@ -1,4 +1,4 @@
-## Aquasolutions API RESTful
+## Nodejs API RESTful
 # initial setups
 - express-generator base
 - add nodemon and add script in package.json
